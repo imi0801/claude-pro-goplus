@@ -186,4 +186,5 @@ Claude Pro 国内充值的关键是 `Organization ID`。流程可以概括为：
 
 ## 更新记录
 
+- 2026-07-04：补充独立页面目录、常见搜索问题、充值异常排查和完整 FAQ。
 - 2026-07-04：升级 GoPlus 版 Claude Pro 新手充值教程，补充 Organization ID 说明、FAQ 和操作总结。
