@@ -13,7 +13,8 @@
 - ✅ 使用自己的 Claude 原账号
 提交前请确认 Organization ID、账号和订单信息，确认无误后再继续。
 
-Claude Pro 很适合处理长文档、写作、代码阅读和资料整理，但国内用户开通时经常卡在付款条件上：海外卡不好准备，地区和订阅验证麻烦，续费也需要持续维护。新手真正需要的是一套清楚的操作路径：先购买 Claude Pro 卡密，再找到自己账号里的 Organization ID，把它粘贴到 `Claude 用户ID` 输入框，确认账号后再提交充值。
+Claude Pro 很适合处理长文档、写作、代码阅读和资料整理，但国内用户开通时经常卡在付款条件上：海外卡不好准备，地区和订阅验证麻烦，续费也需要持续维护。
+
 
 ## 目录
 
@@ -34,32 +35,6 @@ Claude Pro 很适合处理长文档、写作、代码阅读和资料整理，但
 - 没有海外信用卡，希望用微信或支付宝付款；
 - 想把 Pro 开通到自己的 Claude 原账号；
 - 不熟悉 Claude Account 页面，不知道 Organization ID 在哪里；
-- 希望充值前能看到账号确认信息。
-
-不太适合：
-
-- 已经可以稳定使用官方订阅；
-- 暂时无法确认当前 Claude 登录账号；
-- 还没有可正常登录的 Claude 账号；
-- 无法确认当前 Claude 登录邮箱是否正确。
-
-## 常见搜索问题
-
-如果你搜索“Claude Pro 国内充值”“Claude Pro 微信支付宝开通”“Claude Pro 无海外信用卡”，通常是官方订阅付款不方便，需要一个能在国内完成支付并确认账号的充值流程。
-
-如果你搜索“Claude Organization ID 在哪里”“Claude 用户ID 怎么填”，重点是进入 Claude Settings / Account 页面，找到 `Organization ID`，再粘贴到充值页面的 `Claude 用户ID`。
-
-如果你搜索“Claude Pro 订阅失败”“Claude Pro 付款失败”，重点不是重复尝试付款，而是先确认账号、套餐、卡密和 `Organization ID` 是否完整。
-
-## 充值前准备
-
-操作前建议先确认：
-
-1. Claude 账号可以正常登录。
-2. 可以进入 Settings / Account 页面。
-3. 当前登录邮箱就是要充值的目标账号。
-4. 购买的是 Claude Pro 相关套餐。
-5. 卡密、订单号和付款记录已经保存。
 
 ## Claude Pro 充值流程
 
